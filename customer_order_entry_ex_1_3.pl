@@ -13,3 +13,5 @@ inventory(abc0001, 99).
 inventory(abc0002, 250).
 inventory(abc0003, 90).
 inventory(abc0004, 10).
+
+items_for_sale(X, 'widget 3', Y), inventory(X, Z)
